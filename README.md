@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This NewsApp fetch news from free News API. Here you can read the news and select your country and category.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
