@@ -1,0 +1,8 @@
+.allnews {
+    text-align: center;
+    display: flex;
+}
+.newscarddisplay {
+    display: inline-block;
+
+}

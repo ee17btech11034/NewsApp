@@ -1,0 +1,46 @@
+.card {
+    height: 20vh;
+    width: 20vw;
+    border: 2px solid red;
+    display: flex;
+    align-items: center;  /*ye y-axis par center kr dega. */
+    justify-content: center;  /*ye x-axis par center kr dega. */
+}
+
+.content {
+    width: 50%;
+}
+
+
+.card{
+    background-color: rgb(111, 203, 240);
+    color: black;
+    width: 25vw;
+    height: 30vh;
+    border: 3px solid black;
+    margin: 3.5vh 2.5vw;
+    padding: 0.1vh 1vw;
+    display: inline-block;
+    border-radius: 15px;
+}
+.card:hover{
+    background-color: rgb(205, 224, 181);
+}
+.card-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card-img{
+    height: 15vh;
+
+    padding: 0.1vw 1vh;
+    margin: 10px 10px;
+
+}
+.card-img img{
+    height: inherit;      /* iska matlab hai ki .card-img class me jo height hai wahi de do img ko.  */
+}
+h3 {
+    align-content: center;
+}

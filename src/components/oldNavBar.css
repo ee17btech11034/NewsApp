@@ -1,0 +1,27 @@
+nav {
+    background-color: antiquewhite;
+}
+ul{
+    padding: 0vh 0vh;
+    margin: 0vh 0vh;
+}
+li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 2vh 2vw;
+    margin-left: 3vw;
+    
+  }
+
+a {
+    padding: 0.1vh 0.5vw;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(255, 0, 191);
+}
+img {
+    width: 3.5vw;
+    height: 3.5vh;
+    
+}
